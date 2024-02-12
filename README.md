@@ -30,7 +30,7 @@ Também foi utilizado o pacote json-server para simular uma api através do json
 
 ## 💻 Projeto
 
-Clone da landing page do spotify
+Clone da landing page do spotify </br>
 Disponível <a href='https://evandrodias11.github.io/spotify-clone/' target='_blank'>aqui</a>
 
 Este projeto possui a funcionalidade de filtro na busca, para testar essa funcionalidade será necessário clonar o projeto e rodar localmente, rodando o arquivo artists.json com json-server, para simular uma api.

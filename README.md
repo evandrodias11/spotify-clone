@@ -35,7 +35,7 @@ Disponível <a href='https://evandrodias11.github.io/spotify-clone/' target='_bl
 
 Este projeto possui a funcionalidade de filtro na busca, para testar essa funcionalidade será necessário clonar o projeto e rodar localmente, rodando o arquivo artists.json com json-server, para simular uma api. </br></br>
 
-Versão do projeto em react <a href="">aqui</a>
+Versão do projeto em react <a href="https://github.com/evandrodias11/sptify-clone-react">aqui</a>
 
 ## 📝 Licença
 
